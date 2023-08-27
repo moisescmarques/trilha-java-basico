@@ -9,7 +9,7 @@ public class MinhaClasse { //utilização do Padrão CamelCase
         int year = 2021; //exemplo de variavel
         year = 2022;
 
-        final String US = "United States" //exemplo de constante. Com todas as letras maiusculas. Padrão UpperCase.
+        final String US = "United States";//exemplo de constante. Com todas as letras maiusculas. Padrão UpperCase.
         double medida_mm = 2.6;
     }  
 }
